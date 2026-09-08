@@ -1,5 +1,5 @@
 {
-  "name": "private-proxy",
+  "name": "encrypted-proxy",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "http-proxy-middleware": "^3.0.3"
+    "@titaniumnetwork-dev/ultraviolet": "^3.2.3"
   }
 }
